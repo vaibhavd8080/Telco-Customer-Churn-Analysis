@@ -1,4 +1,4 @@
-# Telco Customer Churn Analysis (Power BI)
+# Telcom Customer Churn Analysis (Power BI)
 
 ## About the Project
 Customer churn is a common problem in the telecom industry. In this project, I worked on a telecom customer dataset to understand customer behavior and identify the main reasons why customers are leaving.
