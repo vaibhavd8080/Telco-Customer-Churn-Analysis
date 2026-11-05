@@ -33,13 +33,6 @@ The existing dashboard analysis highlights these descriptive patterns in the dat
 
 These are associations in the analysed data. They do not prove that contract type, tenure, internet service or payment method causes churn.
 
-## Project files
-
-- [Open the Power BI report](PowerBI/TELCO%20CUSTOMER%20CHURN%20ANALYSIS.pbix)
-- [View the dashboard preview](images/dashboard_preview.png)
-- [Original customer dataset](Data/Telco-Customer-Churn.csv)
-- [Prepared customer dataset](Data/telco_churn_cleaned.csv)
-
 ## Data preparation
 
 The repository contains both the original CSV and a cleaned CSV. The project documentation describes category standardisation, missing-value handling, data-type checks and Power BI calculated measures.
